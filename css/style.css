@@ -65,14 +65,14 @@
 }
 
 .breaking-bad-info h2 {
-  font-size: 2.5rem;
+  font-size: 2.3rem;
   margin-bottom: 10px;
   text-align: center;
   font-weight: bold;
 }
 
 .breaking-bad-info p {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 1.4;
   padding: 15px;
 }
@@ -117,7 +117,7 @@
 }
 
 .character {
-  width: 300px;
+  width: 25%;
   margin: 20px;
   border-radius: 5px;
   overflow: hidden;
@@ -639,23 +639,23 @@ p {
   }
 
   .intro-text p {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   .breaking-bad-info h2 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 
   .breaking-bad-info p {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   .explorando-intro h2 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 
   .explorando-intro h3 {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
 
   .explorando-intro p {
@@ -667,11 +667,11 @@ p {
   }
 
   .character h2 {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
 
   .character p {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .episode {
@@ -679,11 +679,11 @@ p {
   }
 
   .episode h2 {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
 
   .episode p {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .reconocimiento {
@@ -691,29 +691,29 @@ p {
   }
 
   .reconocimiento h2 {
-    font-size: 1.5rem;
+    font-size: 2.4rem;
   }
 
   .reconocimiento p {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
-  .boton {
+  /* .boton {
     padding: 10px 15px;
     margin: 20px 0;
     font-size: 0.8rem;
-  }
+  } */
 
   .caracteristicas {
     max-width: 100%;
   }
 
   .caracteristicas li {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   .caracteristicas li strong {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
 
   .banner {
@@ -751,7 +751,7 @@ p {
   }
 
   .galeria-h2 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 
   .galeria-contenedor {
